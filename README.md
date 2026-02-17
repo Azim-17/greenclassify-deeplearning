@@ -4,14 +4,6 @@
 
 ---
 
-## 🎥 Demo Video
-
-📹 **[Watch Demo Video (Azim.mp4)](https://github.com/Azim-17/greenclassify-deeplearning/blob/main/Azim.mp4)**
-
-> Note: Click the link above and then click the "Download" button to view the full demo video (7.08 MB).
-
----
-
 ## 📋 Project Overview
 This deep learning-based web application accurately identifies and categorizes various types of vegetables using Convolutional Neural Networks (CNNs). The system analyzes input images of vegetables and classifies them into 15 predefined categories.
 
