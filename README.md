@@ -187,7 +187,7 @@ Open Pull Request
 ---
 
 ## 👨‍💻 Author
-**Imtiyaj Panhalkar**
+**Azim Khan**
 
 ---
 
